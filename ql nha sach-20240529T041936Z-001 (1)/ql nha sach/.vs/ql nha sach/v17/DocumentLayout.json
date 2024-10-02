@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|d:\\test\\ql nha sach-20240529t041936z-001 (1)\\ql nha sach-20240529t041936z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\lichsunhapsachscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\lichsunhapsachscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\nguoidung\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\scripts\\jquery-3.4.1.intellisense.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\scripts\\jquery-3.4.1.intellisense.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\theme\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\theme\\css\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\lichsunhapsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\lichsunhapsach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\lichsunhapsach\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\lichsunhapsach\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\lichsunhapsach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\lichsunhapsach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\lichsunhapsach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\lichsunhapsach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\lichsunhapsach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\lichsunhapsach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\lichsunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\lichsunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\loaisaches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\loaisaches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\models\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\models\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\controllers\\loaisachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\controllers\\loaisachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\nguoidung\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\nguoidung\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\lesshat.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\theme\\less\\3rd-party\\lesshat.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\content\\bootstrap-theme.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\content\\bootstrap-theme.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\content\\bootstrap-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\content\\bootstrap-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\views\\nguoidung\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1F7AD9-6F81-4C69-9636-1046A2284690}|ql nha sach\\ql nha sach.csproj|solutionrelative:ql nha sach\\views\\nguoidung\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LichSuMuaHangsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ql nha sach\\Controllers\\LichSuMuaHangsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 45,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\KHACHHANGs\\Index.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\KHACHHANGs\\Index.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\KHACHHANGs\\Index.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\KHACHHANGs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T08:34:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dangxuat.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\dangxuat.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Nguoidung\\dangxuat.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\dangxuat.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Nguoidung\\dangxuat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:05:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jquery-3.4.1.intellisense.js",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Scripts\\jquery-3.4.1.intellisense.js",
+              "RelativeDocumentMoniker": "ql nha sach\\Scripts\\jquery-3.4.1.intellisense.js",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Scripts\\jquery-3.4.1.intellisense.js",
+              "RelativeToolTip": "ql nha sach\\Scripts\\jquery-3.4.1.intellisense.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T11:14:20.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LICHSUNHAPSACH\\Delete.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Delete.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LICHSUNHAPSACH\\Delete.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:58:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LICHSUNHAPSACH\\Edit.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Edit.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LICHSUNHAPSACH\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:58:23.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Create.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LICHSUNHAPSACH\\Create.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Create.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LICHSUNHAPSACH\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:57:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Details.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LICHSUNHAPSACH\\Details.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Details.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LICHSUNHAPSACH\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:57:09.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Index.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LICHSUNHAPSACH\\Index.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LICHSUNHAPSACH\\Index.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LICHSUNHAPSACH\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:56:12.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LICHSUNHAPSACHsController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LICHSUNHAPSACHsController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\LICHSUNHAPSACHsController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LICHSUNHAPSACHsController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\LICHSUNHAPSACHsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:51:22.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LICHSUNHAPSACH.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\LICHSUNHAPSACH.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\LICHSUNHAPSACH.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\LICHSUNHAPSACH.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\LICHSUNHAPSACH.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:49:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ql nha sach\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:52:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ql nha sach\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:52:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ql nha sach\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:51:54.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TAIKHOAN.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\TAIKHOAN.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\TAIKHOAN.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\TAIKHOAN.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\TAIKHOAN.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:06:51.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LOAISACH.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\LOAISACH.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\LOAISACH.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\LOAISACH.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\LOAISACH.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:05:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NguoidungController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\NguoidungController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\NguoidungController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\NguoidungController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\NguoidungController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:05:23.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LOAISACHesController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LOAISACHesController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\LOAISACHesController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LOAISACHesController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\LOAISACHesController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:05:18.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LichSuMuaHangsController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LichSuMuaHangsController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\LichSuMuaHangsController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\LichSuMuaHangsController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\LichSuMuaHangsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:08:37.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\Model1.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\Model1.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\Model1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:55:25.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\KHACHHANG.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\KHACHHANG.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\KHACHHANG.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:01:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T08:23:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\signup.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Nguoidung\\signup.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\signup.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Nguoidung\\signup.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:39:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\SACHes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\SACHes\\Create.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\SACHes\\Create.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\SACHes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:28:42.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\SACHes\\Index.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\SACHes\\Index.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\SACHes\\Index.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\SACHes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:13:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SACH.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\SACH.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Models\\SACH.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Models\\SACH.cs",
+              "RelativeToolTip": "ql nha sach\\Models\\SACH.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wC0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:13:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KHACHHANGsController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\KHACHHANGsController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\KHACHHANGsController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\KHACHHANGsController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\KHACHHANGsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA3wIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:14:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "lesshat.less",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\lesshat.less",
+              "RelativeDocumentMoniker": "ql nha sach\\theme\\less\\3rd-party\\lesshat.less",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\lesshat.less",
+              "RelativeToolTip": "ql nha sach\\theme\\less\\3rd-party\\lesshat.less",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-06-06T10:01:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:05:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\KHACHHANGs\\Create.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\KHACHHANGs\\Create.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\KHACHHANGs\\Create.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\KHACHHANGs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:41:52.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signin.css",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\signin.css",
+              "RelativeDocumentMoniker": "ql nha sach\\theme\\css\\signin.css",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\signin.css",
+              "RelativeToolTip": "ql nha sach\\theme\\css\\signin.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T10:01:19.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAADkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:02:23.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\styles.css",
+              "RelativeDocumentMoniker": "ql nha sach\\theme\\css\\styles.css",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\css\\styles.css",
+              "RelativeToolTip": "ql nha sach\\theme\\css\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T10:01:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "mixins.less",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less",
+              "RelativeDocumentMoniker": "ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less",
+              "RelativeToolTip": "ql nha sach\\theme\\less\\3rd-party\\bootstrap\\mixins.less",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2024-06-06T10:01:32.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:00:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootstrap-theme.min.css",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Content\\bootstrap-theme.min.css",
+              "RelativeDocumentMoniker": "ql nha sach\\Content\\bootstrap-theme.min.css",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Content\\bootstrap-theme.min.css",
+              "RelativeToolTip": "ql nha sach\\Content\\bootstrap-theme.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T10:00:50.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bootstrap-theme.css",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Content\\bootstrap-theme.css",
+              "RelativeDocumentMoniker": "ql nha sach\\Content\\bootstrap-theme.css",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Content\\bootstrap-theme.css",
+              "RelativeToolTip": "ql nha sach\\Content\\bootstrap-theme.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T10:00:46.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LOAISACHes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\LOAISACHes\\Create.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\LOAISACHes\\Create.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\LOAISACHes\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:49:43.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\packages.config",
+              "RelativeDocumentMoniker": "ql nha sach\\packages.config",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\packages.config",
+              "RelativeToolTip": "ql nha sach\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T09:54:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Global.asax.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Global.asax.cs",
+              "RelativeToolTip": "ql nha sach\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:54:14.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\login.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Nguoidung\\login.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Nguoidung\\login.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\Nguoidung\\login.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:28:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\Web.config",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\Web.config",
+              "RelativeToolTip": "ql nha sach\\Views\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T09:41:01.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ql nha sach\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ql nha sach\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:49:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Web.config",
+              "RelativeDocumentMoniker": "ql nha sach\\Web.config",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Web.config",
+              "RelativeToolTip": "ql nha sach\\Web.config",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwEQAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T03:52:22.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SACHesController.cs",
+              "DocumentMoniker": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\SACHesController.cs",
+              "RelativeDocumentMoniker": "ql nha sach\\Controllers\\SACHesController.cs",
+              "ToolTip": "D:\\test\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach-20240529T041936Z-001 (1)\\ql nha sach\\ql nha sach\\Controllers\\SACHesController.cs",
+              "RelativeToolTip": "ql nha sach\\Controllers\\SACHesController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwIMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:13:53.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+E:\.net\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+E:\.net\ql nha sach\ql nha sach\bin\ql nha sach.dll
+E:\.net\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+E:\.net\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+E:\.net\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+E:\.net\ql nha sach\ql nha sach\bin\EntityFramework.dll
+E:\.net\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+E:\.net\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+E:\.net\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+E:\.net\ql nha sach\ql nha sach\bin\WebGrease.dll
+E:\.net\ql nha sach\ql nha sach\bin\EntityFramework.xml
+E:\.net\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+E:\.net\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+E:\.net\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+E:\.net\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+E:\.net\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+E:\.net\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+E:\.net\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CopyComplete
+E:\.net\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+E:\.net\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\WebGrease.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha s.840517CD.Up2Date
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+C:\Hoc Tap\BTH\DOTNET\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\WebGrease.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha s.840517CD.Up2Date
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+D:\hoc dai hoc\nam 3\HK2\Cong Nghe .NET\CK\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\WebGrease.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha s.840517CD.Up2Date
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+C:\Users\huytr\Downloads\ql nha sach-20240529T041936Z-001\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\WebGrease.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha s.840517CD.Up2Date
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.dll.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\ql nha sach.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csc.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\csi.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.AppContext.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Collections.Immutable.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Console.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Globalization.Calendars.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Net.Http.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Net.Sockets.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.ValueTuple.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\vbc.rsp
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\roslyn\VBCSCompiler.exe.config
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Antlr3.Runtime.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.Web.Infrastructure.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Newtonsoft.Json.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Helpers.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Mvc.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Optimization.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Razor.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\WebGrease.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\EntityFramework.SqlServer.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Helpers.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Mvc.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Optimization.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.Razor.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Deployment.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\System.Web.WebPages.Razor.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Newtonsoft.Json.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Antlr3.Runtime.pdb
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.AssemblyReference.cache
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.csproj.CoreCompileInputs.cache
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha s.840517CD.Up2Date
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.dll
+D:\test\ql nha sach-20240529T041936Z-001 (1)\ql nha sach-20240529T041936Z-001 (1)\ql nha sach\ql nha sach\obj\Debug\ql nha sach.pdb
